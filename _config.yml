@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Chen Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "PhD candidate @ HKU"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "personal web"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://chenwang1997.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Chen Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD candidate @ HKU"
   location         : "Hong Kong"
   employer         : "The University of Hong Kong"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=6ka5ImUAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-7155-0759"
   linkedin         : "https://www.linkedin.com/in/chen-wang-19970829"
 
 # Publication Category - The following the list of publication categories and their headings
