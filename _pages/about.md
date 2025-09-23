@@ -13,4 +13,4 @@ I hold a Master’s degree in Industrial Engineering & Operations Research from 
 
 My research interests include Digital Experimentation Methods (A/B testing), Causal Inference, and the Application of AI in Marketing Decision-Making. My research has been published in ***Management Science*** and has received positive reviews from other premier journals such as ***Marketing Science***.
 
-Contact me via email: [Email](annacwang@connect.hku.hk)
+Contact me via email: [](annacwang@connect.hku.hk)
