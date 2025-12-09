@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Chen Wang, currently a PhD candidate in Innovation & Information Management at the Faculty of Business and Economics, the University of Hong Kong. 
+Welcome! I'm Chen Wang, currently a PhD candidate in Innovation & Information Management at the Faculty of Business and Economics, the University of Hong Kong (HKU). 
 
 I hold a Master’s degree in Industrial Engineering & Operations Research from University of California, Berkeley, and a Bachelor’s degree in Applied Mathematics from Tongji University.
 
